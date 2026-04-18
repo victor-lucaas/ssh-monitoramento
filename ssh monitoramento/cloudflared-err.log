@@ -11,7 +11,7 @@
 2026-04-06T19:42:55Z INF cloudflared will not automatically update on Windows systems.
 2026-04-06T19:42:55Z INF Generated Connector ID: 9b0920c6-7574-4e02-8b48-392261c120ec
 2026-04-06T19:42:55Z INF Initial protocol quic
-2026-04-06T19:42:55Z INF ICMP proxy will use 10.82.2.78 as source for IPv4
+2026-04-06T19:42:55Z INF ICMPjdkdmkxkdkdkdd proxy will use 10.82.2.78 as source for IPv4
 2026-04-06T19:42:55Z INF ICMP proxy will use fe80::6f60:1149:49e7:c473 in zone Wi-Fi 4 as source for IPv6
 2026-04-06T19:42:55Z INF cloudflared does not support loading the system root certificate pool on Windows. Please use --origin-ca-pool <PATH> to specify the path to the certificate pool
 2026-04-06T19:42:55Z INF ICMP proxy will use 10.82.2.78 as source for IPv4
@@ -8195,5 +8195,4 @@
 2026-04-07T17:27:09Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveP256] connIndex=0 event=0 ip=198.41.200.73
 2026-04-07T17:27:09Z ERR failed to run the datagram handler error="context canceled" connIndex=0 event=0 ip=198.41.200.73
 2026-04-07T17:27:09Z ERR failed to serve tunnel connection error="control stream encountered a failure while serving" connIndex=0 event=0 ip=198.41.200.73
-2026-04-07T17:27:09Z ERR Serve tunnel error error="control stream encountered a failure while serving" connIndex=0 event=0 ip=198.41.200.73
-2026-04-07T
+2026-04-07T17:27:09Z ERR Serve tunnel error error="control stream encountered a failure while serving" connIndex=0 event=0 ip=198.
