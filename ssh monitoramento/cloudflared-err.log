@@ -89,7 +89,16 @@ dijdifjfifn
 isisjsisnd
 sisisskskskns
 isidudidud
-disididiis
+disididiisjdjdjdjds
+sisidjdkdjdjd
+isisjdjdjdkd
+isidjdidjdijdus
+shishdududjd
+jsididudududid
+siidjdudjdidud
+jeidududjeidhduhsus
+usudjdudnduhdushsj
+susudjdujddu
 didiidid
 ididodid
 idjddjjd
@@ -8396,6 +8405,4 @@ iisisidisjjxjdjj
 2026-04-07T17:24:37Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveP256] connIndex=0 event=0 ip=198.41.200.73
 2026-04-07T17:24:37Z ERR failed to run the datagram handler error="context canceled" connIndex=0 event=0 ip=198.41.200.73
 2026-04-07T17:24:37Z ERR failed to serve tunnel connection error="control stream encountered a failure while serving" connIndex=0 event=0 ip=198.41.200.73
-2026-04-07T17:24:37Z ERR Serve tunnel error error="control stream encountered a failure while serving" connIndex=0 event=0 ip=198.41.200.73
-2026-04-07T17:24:37Z INF Retrying connection in up to 1m4s connIndex=0 event=0 ip=198.41.200.73
-2026-04-07T17:24:48Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveP256] connIndex=0 event=0 i
+2026-04-07T17:24:37Z ERR Serve tunnel error error="control stream encountered a failure while serving" connIndex=0 event=0 ip=
